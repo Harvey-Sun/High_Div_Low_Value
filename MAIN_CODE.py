@@ -1,4 +1,6 @@
-%cd E:\工作\实习\嘉实基金产品部\高分红低估值策
+# -*- coding: utf-8 -*-
+import os
+os.chdir(u'E:\工作\实习\嘉实基金产品部\高分红低估值策')
 
 import pandas as pd
 import numpy as np
